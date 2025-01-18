@@ -6,11 +6,7 @@
     <title>Document</title>
 </head>
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap');
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
-:root{
-  --blue: #1cb4da;
-}
+
 
 body{
   font-family: 'Poppins', sans-serif;
