@@ -69,11 +69,7 @@ body{
      <p class="">Hello. Hola. Namaste</p>
      <h1>👋 Hi,<span class="heighlight"></span>I’m Sameer Kumar</h1>
      <p class="">I am a full Stack developer <br> who loves tech.</p>
-     <div class="icons">
-       <a href=""><i class="bi bi-github"></i></a>
-       <a href=""><i class="bi bi-twitter"></i></a>
-       <a href=""><i class="bi bi-linkedin"></i></a>
-     </div>
+    
    </div>
  </main>
 </body>
