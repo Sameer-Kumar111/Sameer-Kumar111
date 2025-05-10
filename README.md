@@ -1,4 +1,3 @@
-## Hi 
 ## Sameer Kumar👋
 [![MasterHead](https://github.com/Sameer-Kumar111/Sameer-Kumar111/blob/main/Sameer.jp.gif?raw=true)](https://github.com/Sameer-Kumar111)
 <h1 align="center">Hi 👋, I'm Sameer Kumar</h1>
